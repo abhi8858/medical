@@ -1,2 +1,3 @@
-# stock
-Stock prediction is ml project used for predicting future stocks of any company using past stock data of that particular company.Algorithm used is Linear regression with python. It forecast data with high accuracy. 
+# medical Assistance
+Medical assistant the leading source of trustworthy medical
+information provide a large database for user to lookup and learn more about medication s that they may be taking.while there is lot of information here 
